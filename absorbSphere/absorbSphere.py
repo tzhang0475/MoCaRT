@@ -3,7 +3,7 @@
 # File              : absorbSphere.py
 # Author            : tzhang
 # Date              : 28.12.2020
-# Last Modified Date: 29.12.2020
+# Last Modified Date: 31.12.2020
 # Last Modified By  : tzhang
 
 '''
@@ -22,11 +22,11 @@ from matplotlib import pyplot as plt
 
 # basic parameters 
 
-R_sph = 0.5   # radius of the sphere 
+R_sph = 0.48   # radius of the sphere 
 S_t = 1 # cross section
 
 # Number of particles 
-N = 10000
+N = 10000000
 PI = 3.1415926
 
 # volume of the sphere
