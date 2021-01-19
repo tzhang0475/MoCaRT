@@ -1,8 +1,3 @@
- File              : README.md
- Author            : tzhang
- Date              : 19.01.2021
- Last Modified Date: 19.01.2021
- Last Modified By  : tzhang
 # MoCaRT: Monte Carlo for Reactor physics Teaching
 Simple examples for calculating neutron and photon transport using Monte Carlo Method
 ## absorbSphere
